@@ -8,7 +8,7 @@
 - A fully Gregified Blood Magic with custom Multiblocks.
 - A fun endgame without Draconic Evolution fusion crafting.
 - Fully modified progression with lots of custom fluids and items.
-- Custom Progression from 15 Tiers of Technology (LV-MAX) (Currently on DEV-Playable up to ZPM)
+- Custom Progression from 15 Tiers of Technology (LV-MAX) (Currently on DEV-Playable up to UHV)
 # Credits
 - Infinity Textures by WithersChat
 - ElRadRatz Kubejs Helper
